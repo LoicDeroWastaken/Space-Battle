@@ -1,0 +1,7 @@
+Pour prendre le projet github comme il est et sync sur votre pc : 
+git clone https://github.com/LoicDeroWastaken/Space-Battle
+
+vous faites vos changements ... 
+
+Quand vous avez fini vous faites 
+git add 
