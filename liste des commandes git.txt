@@ -1,10 +1,13 @@
 Pour prendre le projet github comme il est et sync sur votre pc : 
-git clone https://github.com/LoicDeroWastaken/Space-Battle.git
+  - git clone https://github.com/LoicDeroWastaken/Space-Battle.git
+
+Pour se connecter au github : 
+  - git remote add origin https://github.com/LoicDeroWastaken/Space-Battle.git
 
 
 vous faites vos changements ... 
+Quand vous avez fini vous faites :
 
-Quand vous avez fini vous faites 
-git add -A
-git commit -m "message"
-git push
+  - git add -A
+  - git commit -m "message"
+  - git push
