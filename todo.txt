@@ -1,0 +1,12 @@
+### to do list Space Battle PROTOTYPE ###
+
+générer une erreur si une meme case est rentrée 2 fois ou pour 2 vaisseaux diff
+[FAIT] générer un timer
+[FAIT] faire la fonction de jeu principale tour par tout (booleen)
+[FAIT] retirer une case du vaisseau approprié dans les dict d'équipe lorsque l'adversaire tire sur cette case
+chaque tir dans l'eau sera ajouté à une liste différente pour chaque equipe qui rappelle si le joueur a deja tiré la
+lorsqu'un vaisseau dans le dict n'as plus de cases dans sa valeur (qui est une liste), il est retiré du dict et un message vous avez
+coulé le xxx vaisseau adverse
+[FAIT]lorsque une equipe a un dict vide, donc plus de vaisseaux (avant fin de timer), l'autre win
+[FAIT]lorsque le timer = 0 celui qui a le moins de bateaux perds
+
